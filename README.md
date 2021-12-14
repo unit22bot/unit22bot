@@ -1,5 +1,7 @@
 ## Unit 22 Bot (Bender)
 
-- Bending Unit: 22
-- Unit Number: 1729
-- Serial Number: 2716057
+A special bot for completing tasks and informing users.
+
+## Statistic
+
+![](https://github-readme-stats.vercel.app/api?username=unit22bot&show_icons=true)
